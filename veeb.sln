@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veeb", "veeb\veeb.csproj", "{9966C150-7E51-48EC-90BD-A4D9F6BF0EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9966C150-7E51-48EC-90BD-A4D9F6BF0EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9966C150-7E51-48EC-90BD-A4D9F6BF0EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9966C150-7E51-48EC-90BD-A4D9F6BF0EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9966C150-7E51-48EC-90BD-A4D9F6BF0EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C21D01-B557-4DCC-8C19-5496B006E965}
+	EndGlobalSection
+EndGlobal
